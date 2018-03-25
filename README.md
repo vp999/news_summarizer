@@ -5,13 +5,13 @@
 parse_text	 :  raw text , to be used for nlp
 
 
-Reference columns :
+### Reference columns :
 
 link	: the original url from which text is taken
 
 publish_date : Date of article
 
-Following columns are to cross check the progress:
+### Following columns are to cross check the progress:
 
 title	:  Title of the article
 
